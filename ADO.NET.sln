@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33328.57
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO.NET", "ADO.NOT\ADO.NET.csproj", "{17502C2C-E95E-4268-AD8A-D19D09F7644A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork1_ADO.NET", "HomeWork1_ADO.NET\HomeWork1_ADO.NET.csproj", "{76F071FF-9B8A-4AC3-9147-84EB41BB7C87}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB", "DB\DB.csproj", "{F14C7270-8E5A-4FD6-8B10-969C2F46D625}"
@@ -13,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO.NET_2", "ADO.NET_2\ADO.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork2_ADO.NET", "HomeWork2_ADO.NET\HomeWork2_ADO.NET.csproj", "{4024FC74-4F48-4033-A0E6-44899D5BF0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapper", "Dapper\MyDapper.csproj", "{FC995B0B-5CA6-4029-9E87-3BF407810DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDapper", "Dapper\MyDapper.csproj", "{FC995B0B-5CA6-4029-9E87-3BF407810DC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17502C2C-E95E-4268-AD8A-D19D09F7644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17502C2C-E95E-4268-AD8A-D19D09F7644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17502C2C-E95E-4268-AD8A-D19D09F7644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17502C2C-E95E-4268-AD8A-D19D09F7644A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{76F071FF-9B8A-4AC3-9147-84EB41BB7C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76F071FF-9B8A-4AC3-9147-84EB41BB7C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F071FF-9B8A-4AC3-9147-84EB41BB7C87}.Release|Any CPU.ActiveCfg = Release|Any CPU

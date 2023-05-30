@@ -39,7 +39,7 @@ namespace ADO.NET
             connection.Open();
             Console.WriteLine("Connection...");
 
-            //var query = "INSERT INTO Students(FirstName, Lastname, Age) VALUES('Vladimir', 'Vinnik', 41)" +
+            //var query = "INSERT INTO Students(FirstName, Lastname, Age) VALUES('Vladimir', 'Vennik', 41)" +
             //    ",('Dima', 'Belkov', 31)" +
             //    ",('Sawa', 'Buzov', 45)" +
             //    ",('Mawa', 'Galkina', 91)" +
