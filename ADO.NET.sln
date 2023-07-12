@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDapper", "Dapper\MyDapper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_EFW", "HW_EFW\HW_EFW.csproj", "{74C012D0-7FE9-47FD-84CB-991F49D8968E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{E3D7C980-A31A-468D-90C5-27FB357CAC8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{74C012D0-7FE9-47FD-84CB-991F49D8968E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C012D0-7FE9-47FD-84CB-991F49D8968E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74C012D0-7FE9-47FD-84CB-991F49D8968E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D7C980-A31A-468D-90C5-27FB357CAC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D7C980-A31A-468D-90C5-27FB357CAC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D7C980-A31A-468D-90C5-27FB357CAC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D7C980-A31A-468D-90C5-27FB357CAC8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
